@@ -10,7 +10,9 @@ This project is a Flash Card application built using Python and the Tkinter libr
 
 3. Shuffle and Repeat: Users have the option to shuffle the flashcards for a randomized study session. They can also choose to repeat the flashcards continuously until they decide to stop.
 
-4. Progress Tracking: The application keeps track of the user's progress by indicating the number of flashcards studied and the accuracy rate.
+
+
+5. This is a sample change 
 
 ## Prerequisites
 
